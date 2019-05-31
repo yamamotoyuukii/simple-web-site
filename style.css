@@ -1,3 +1,11 @@
-body {
-    font-size: 16px;
+.Virus {
+    font-size: 50px;
+    border: 100px;
+    color:red;
+}
+.color{
+    font-size:50px;
+    border:100px;
+    color:blue;
+
 }
